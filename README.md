@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a physicist in the final stages of my doctorate. In the course of my research work, I have built up in-depth expertise in the field of X-ray physics. What I found particularly interesting was the combination of experimental work on spectral clinical CT and the associated challenges in image processing.
 
 <!--
 **jhtum93/jhtum93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
